@@ -1,0 +1,30 @@
+h3 {
+    color: rgb(41, 41, 41);
+    background-color: rgb(185, 185, 185);
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+img {
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 500px;
+    align-self: center;
+    display: block;
+}
+
+ul {
+    background-color: rgb(201, 253, 253);
+    text-align: center;
+}
+
+ol {
+    background: rgb(201, 253, 216);
+    text-align: center;
+}
